@@ -1,0 +1,20 @@
+From 0ad8c4a0fb780f318cdf6238b3730835fc242680 Mon Sep 17 00:00:00 2001
+From: MIB coin <36949510+mosbc@users.noreply.github.com>
+Date: Wed, 19 Dec 2018 17:45:59 +0900
+Subject: [PATCH] initial file
+
+---
+ readme.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 readme.txt
+
+diff --git a/readme.txt b/readme.txt
+new file mode 100644
+index 0000000..b2f3af7
+--- /dev/null
++++ b/readme.txt
+@@ -0,0 +1 @@
++start new project
+-- 
+2.19.1.windows.1
+
